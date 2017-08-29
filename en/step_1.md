@@ -1,19 +1,13 @@
-## Introduction
+We all know the Earth rotates around an axis that runs between the North and South Poles. All objects in space or otherwise have *three* axes around which they can rotate. If you know how much rotation has happened on each axis, then you know which way the object is pointing.
 
-Add project description here. What will learners be making?
+The three axes are:
 
-### What you will make
+- **Pitch** (like a plane taking off)
+- **Roll** (the plane doing a victory roll)
+- **Yaw** (imagine steering the plane like a car)
 
-Add something here to showcase here, for example:
+Watch this short [video](https://www.youtube.com/watch?v=pQ24NtnaLl8){:target="_blank"} that shows where these axes are in relation to a plane. Try to imagine the plane pointing in any random direction. To get the plane into that position, you can rotate it by a known amount around each axis to get it to the orientation that you imagined.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![](images/orientation.png)
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
-
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+The image above shows where these axes are in relation to the Sense HAT.
