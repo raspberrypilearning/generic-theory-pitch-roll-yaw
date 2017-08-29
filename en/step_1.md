@@ -8,6 +8,6 @@ The three axes are:
 
 Watch this short [video](https://www.youtube.com/watch?v=pQ24NtnaLl8){:target="_blank"} that shows where these axes are in relation to a plane. Try to imagine the plane pointing in any random direction. To get the plane into that position, you can rotate it by a known amount around each axis to get it to the orientation that you imagined.
 
-![](images/orientation.png)
+![Sense HAT orientation diagram](images/orientation.png)
 
 The image above shows where these axes are in relation to the Sense HAT.
