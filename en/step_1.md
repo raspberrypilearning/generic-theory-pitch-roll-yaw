@@ -1,12 +1,12 @@
-We all know the Earth rotates around an axis that runs between the North and South Poles. All objects in space or otherwise have *three* axes around which they can rotate. If you know how much rotation has happened on each axis, then you know which way the object is pointing.
+We all know the Earth rotates around an axis that runs between the North and South Poles. All objects have **three axes** around which they can rotate. These are:
 
-The three axes are:
+- **Pitch** — imagine a plane taking off
+- **Roll** — imagine a plane doing a barrel roll
+- **Yaw** — imagine steering a plane like a car
 
-- **Pitch** (like a plane taking off)
-- **Roll** (the plane doing a victory roll)
-- **Yaw** (imagine steering the plane like a car)
+If you know how much rotation has happened on each axis of an object, then you know which way the object is pointing.
 
-Watch this short [video](https://www.youtube.com/watch?v=pQ24NtnaLl8){:target="_blank"} that shows where these axes are in relation to a plane. Try to imagine the plane pointing in any random direction. To get the plane into that position, you can rotate it by a known amount around each axis to get it to the orientation that you imagined.
+Watch this short [video](https://www.youtube.com/watch?v=pQ24NtnaLl8){:target="_blank"} that shows where these axes are in relation to a plane. Try to imagine a plane pointing in a random direction in space. To get the plane into that position, you can rotate it by a known amount around each of the three axes.
 
 ![Sense HAT orientation diagram](images/orientation.png)
 
