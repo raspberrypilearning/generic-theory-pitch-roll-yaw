@@ -1,7 +1,7 @@
 We all know the Earth rotates around an axis that runs between the North and South Poles. All objects have **three axes** around which they can rotate. These are:
 
 - **Pitch** — imagine a plane taking off
-- **Roll** — imagine a plane doing a barrel roll
+- **Roll** — imagine a plane doing a victory roll
 - **Yaw** — imagine steering a plane like a car
 
 If you know how much rotation has happened on each axis of an object, then you know which way the object is pointing.
